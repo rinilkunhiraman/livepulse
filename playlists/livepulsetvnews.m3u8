@@ -2,3 +2,7 @@
 
 #EXTINF:-1 tvg-name="TN Todo Noticias Ⓨ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/200px-TN_todo_noticias_logo.svg.png" tvg-id="TodoNoticias.ar" tvg-chno="3" tvg-country="AR" group-title="Argentina",TN Todo Noticias Ⓨ
 https://www.youtube.com/channel/UCj6PcyLvpnIRT_2W_mwa9Aw/live
+
+
+#EXTINF:-1 tvg-name="Republic TV Ⓨ" tvg-logo="https://en.wikipedia.org/wiki/Republic_TV#/media/File:Republic_TV_full_logo.svg" tvg-id="republic.in" tvg-chno="5" tvg-country="IN" group-title="India",Republic TV Ⓨ
+https://www.youtube.com/@RepublicWorld/live
